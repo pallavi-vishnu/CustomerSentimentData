@@ -1,3 +1,7 @@
+This project focuses on analyzing customer sentiment from call center interactions based on customer feedback ratings and comments. The aim is to derive insights into customer satisfaction and identify areas for improvement.
+
+
+
 Call centers deal with customer service and receive various types of feedback from customers. In this Call Center Customer Satisfaction data, the following fields are included:
 
 * ID
